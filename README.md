@@ -1,6 +1,3 @@
-# message-hoax-illustration
-Python-generated illustration recreating a late-1990s HIV needle urban legend message for a Semish Kemin essay.
-
 # Message Hoax Illustration
 
 Python code used to create an illustration for the Semish Kemin essay:
