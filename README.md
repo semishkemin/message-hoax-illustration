@@ -18,7 +18,7 @@ https://www.austinchronicle.com/columns/about-aids-11732107/
 ## Essay
 Read the accompanying essay on Substack:
 
-[https://substack.com/@semishkemin]
+[Semish Kemin on Substack](https://substack.com/@semishkemin)
 
 ## Run
 
